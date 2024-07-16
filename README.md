@@ -35,3 +35,7 @@ Spring Data JPA: para la integración con la capa de persistencia.
 PostgreSQL Driver: para la conexión con la base de datos PostgreSQL.
 Jackson: para el manejo de JSON.
 Este proyecto es una aplicación de consola y no incluye un frontend. Se utilizó Trello para organizar las tareas y facilitar la gestión con metodologías ágiles.
+
+https://github.com/Urielks22/Challenge-literatura/blob/main/EJECUCION.jpg
+
+https://github.com/Urielks22/Challenge-literatura/blob/main/BASE%20DE%20DATOS.jpg
